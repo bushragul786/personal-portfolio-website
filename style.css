@@ -1,0 +1,33 @@
+
+.nav-link{
+    color: purple;
+}
+.size{
+    width: 150px;
+}
+.btn{
+    color: purple;
+    border-color: purple;
+}
+span{
+    color: purple;
+}
+.btn-one{
+background-color: purple;
+border-radius:4px ;
+border-color:purple ;
+padding: 10px;
+}
+p{
+    font-weight: 900px;
+}
+.feature-one{
+
+ border: none; /* sab borders remove */
+  border-bottom: 2px solid purple; /* sirf bottom border */
+  box-shadow: 0 0px 0px purple; /* purple shadow */
+}
+.head{
+    text-align: center;
+    font-weight: bold;
+}
