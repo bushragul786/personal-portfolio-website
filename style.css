@@ -31,3 +31,44 @@ p{
     text-align: center;
     font-weight: bold;
 }
+.image{
+    width: 150px;
+    margin-left:20px ;
+    margin-top:20px ;
+}
+.text{
+margin: left 30px;
+}
+.form-control-two{
+      width: 400px;   /* width badhao */
+  height: 100px;   /* height badhao */
+  padding: 20px;  /* andar spacing */
+  font-size: 16px;
+   border-color: rgba(94, 59, 238, 1);
+
+}
+.form-control{
+    border-color: rgba(94, 59, 238, 1);
+
+}
+.form-select{
+     border-color: rgba(94, 59, 238, 1);
+
+}
+.contact-me{
+    text-align: center;
+}
+.submit{
+    align-items: center;
+    width:100px ;
+    background-color: purple;
+border-radius:4px ;
+border-color:purple ;
+padding: 10px;
+color: aliceblue;
+text-align: center;
+
+}
+.picture{
+    width: 100px;
+}
